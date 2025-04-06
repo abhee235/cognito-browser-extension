@@ -1,6 +1,6 @@
 # Cognito: Your Intelligent AI Companion for the Web
 
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Coming%20Soon-blue)](https://chrome.google.com/webstore/detail/YOUR_EXTENSION_ID) **Unlock the power of AI to understand, translate, and create content effortlessly on any webpage and YouTube video. Cognito offers a unique blend of free and flexible Large Language Model (LLM) options, putting you in control of your data and costs.**
 
 ## Overview
@@ -37,7 +37,7 @@ Once Cognito is published on the Chrome Web Store, you will be able to install i
 
 **For development and testing (before publishing):**
 
-1.  Download or clone this repository to your local machine.
+1.  Download or clone this repository to your local machine: [https://github.com/abhee235/cognito-browser-extension/](https://github.com/abhee235/cognito-browser-extension/)
 2.  Open Google Chrome and navigate to `chrome://extensions/`.
 3.  Enable "Developer mode" in the top right corner.
 4.  Click the "Load unpacked" button in the top left corner.
@@ -59,10 +59,10 @@ We welcome contributions from the community! If you are a developer and would li
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0).
 
 ## Support
 
-If you encounter any issues or have any feedback, please feel free to [open an issue](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/issues) on this repository or contact us at [YOUR_EMAIL_ADDRESS].
+If you encounter any issues or have any feedback, please feel free to [open an issue](https://github.com/abhee235/cognito-browser-extension/issues) on this repository.
 
 **Start experiencing a smarter web with Cognito!**
