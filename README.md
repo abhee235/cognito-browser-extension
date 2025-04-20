@@ -29,35 +29,16 @@ Cognito is a Chrome extension designed to enhance your online productivity. By s
 * **Flexibility and Choice:** Cognito offers multiple LLM options, allowing you to choose the best model based on your needs, preferences, and cost considerations.
 * **Boost Your Productivity:** Quickly understand information, communicate across languages, and enhance your writing, all within your browser.
 
-## Installation
-
-Once Cognito is published on the Chrome Web Store, you will be able to install it directly from there:
-
-1.  Visit the [Cognito Chrome Web Store listing](https://chrome.google.com/webstore/detail/YOUR_EXTENSION_ID) (replace with the actual link).
-2.  Click the "Add to Chrome" button.
-3.  Confirm the installation by clicking "Add extension".
-
-**For development and testing (before publishing):**
-
-1.  Download or clone this repository to your local machine: [https://github.com/abhee235/cognito-browser-extension/](https://github.com/abhee235/cognito-browser-extension/)
-2.  Open Google Chrome and navigate to `chrome://extensions/`.
-3.  Enable "Developer mode" in the top right corner.
-4.  Click the "Load unpacked" button in the top left corner.
-5.  Select the directory where you have saved the Cognito extension files.
 
 ## Usage
 
 1.  **Install the Cognito extension** in your Chrome browser.
-2.  Navigate to any webpage or YouTube video.
-3.  Click the Cognito extension icon in your browser's toolbar.
-4.  Alternatively, you might find options in the right-click context menu or a side panel that appears on the page.
-5.  Follow the on-screen instructions to summarize the page/video, translate text, or access writing assistance features.
-6.  For Ollama, ensure you have Ollama installed and running on your local machine.
-7.  For Groq and ChatGPT, you may need to enter your respective API keys or log into your ChatGPT account within the extension's settings.
-
-## Contributing
-
-We welcome contributions from the community! If you are a developer and would like to help improve Cognito, please feel free to fork this repository and submit pull requests.
+2.  Allow the extension to access your page once prompt will appear ( WE dont hold any data, if you will use Ollama then your data will be secure because it will never leave out your computer, for other LLMs check their policies).
+3.  Go to setting page, configure your LLM provider. 
+4.  Navigate to any webpage, summarizer will start working.
+5.  Click the Cognito extension icon in your browser's toolbar.
+8.  For Ollama, ensure you have Ollama installed and running on your local machine. (there may be one extra step involved viz: how to allow set $OLLAMA_ORIGINS = *, in you local computer, which is required to run ollama model)
+ 9.  For Groq and ChatGPT, you may need to enter your respective API keys or log into your ChatGPT account within the extension's settings.
 
 ## License
 
