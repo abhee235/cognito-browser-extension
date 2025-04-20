@@ -3,7 +3,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Coming%20Soon-blue)](https://chrome.google.com/webstore/detail/YOUR_EXTENSION_ID) **Unlock the power of AI to understand, translate, and create content effortlessly on any webpage and YouTube video. Cognito offers a unique blend of free and flexible Large Language Model (LLM) options, putting you in control of your data and costs.**
 
-##Note: There could be some glitch in applcation, because we are in beta testing phase, we will keep updated this page.
+## Note: There could be some glitch in applcation, because we are in beta testing phase, we will keep updated this page.
 
 ## Overview
 
