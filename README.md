@@ -12,6 +12,7 @@ Cognito is a Chrome extension designed to enhance your online productivity. By s
 ## Key Features & Unique Selling Points (USPs)
 
 * **Ollama Integration for Free, Private LLMs:** Experience the power of Large Language Models without any usage charges! Cognito supports **Ollama**, allowing you to run LLMs locally on your machine. This ensures maximum **security and privacy** for your data, as no information needs to be sent to external services for basic summarization and other tasks (depending on the model you choose).
+* **Visualize your understanding through knowledge tree (mindmap)
 * **Free Access to Llama 70B via Groq (API Key Required):** Unleash the capabilities of the incredibly powerful **Llama 70B model** through our integration with **Groq**. Groq offers a generous **free tier** with an API key, allowing for approximately **14,000 requests per day** – perfect for high-quality summarization, translation, and more, without incurring costs.
 * **Free Gemini Model Access (Limited Requests):** Cognito provides built-in support for **Google's Gemini models**, giving you free access to another powerful LLM for various tasks. Please note that this access may have limitations on the number of requests.
 * **Bring Your Own ChatGPT Account:** For users who already have a **ChatGPT account**, Cognito allows you to seamlessly integrate it for access to the familiar and versatile ChatGPT models.
